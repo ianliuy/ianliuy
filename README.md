@@ -1,8 +1,6 @@
-### Hi there, I'm Ian 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true&title_color=" alt="yiyangiliu's github stats" />
 
-<a href="https://github.com/yiyangiliu">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true&title_color=" alt="yiyangiliu's github stats" />
-</a>
+### Hi there, I'm Ian 👋
 
  - 📌 **Self-motivated** Learner.
  - ✨ **Leader** of mutiple communities
@@ -10,10 +8,6 @@
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
-
-</br>
-</br>
-
 
 #### ❤ With high openness, You can easily know me in detail.
  - What do I do every day? 
