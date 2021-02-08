@@ -10,9 +10,8 @@
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
- 
 
-
+----
 
 #### ❤ With high openness, You can easily know me in detail.
  - What do I do every day? 
