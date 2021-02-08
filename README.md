@@ -1,7 +1,5 @@
 ### Hi there, I'm Ian 👋
 
-----
-
 <a href="https://github.com/yiyangiliu">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true&title_color=" alt="yiyangiliu's github stats" />
 </a>
