@@ -11,11 +11,11 @@
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
- - 👩 Male **Feminist**
+ - ✏ Male **Feminist**
  
 ## 
 
-### ❤ With high openness, You can easily know me in detail.
+### ❤ With high openness, Everyone can easily know me in detail.
  - What do I do every day? 
 
      [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff)](https://github.com/yiyangiliu/RescueTime-Record)
