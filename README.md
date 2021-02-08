@@ -10,7 +10,8 @@
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
-
+ - 👩 Male **Feminist**
+ 
 </br>
 </br>
 
