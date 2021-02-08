@@ -1,25 +1,27 @@
 ### Hi there, I'm Ian 👋
 
-<br />
-<br />
-
  - 📌 Self-motivated Learner. Founder & Coordinator of muitiple communities.
- - 👔 Current SDE Intern at ByteDance (TikTok's parent company)
-    - fromer RA at THU and CMU
- - 🎓 Proud USC Trojan
+ - 👔 Current SDE Intern at **ByteDance**
+   - Recommender Systems, Infrastructure, C++
+ - Fromer RA at **THU**
+   - Sentiment Analysis, NLP, Python
+ - Fromer RA at **CMU**
+   - Blockchain, Golang
+ - 🎓 Proud **USC Trojan**
  
-
 <a href="https://github.com/yiyangiliu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true&theme=material-palenight" alt="yiyangiliu's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true" alt="yiyangiliu's github stats" />
+</a>
 
 ----
 
  - ❤ With high openness, You can easily know my details.
    - What do I do every day? 
-   
-   [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record)](https://github.com/yiyangiliu/RescueTime-Record)
+
+     [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record)](https://github.com/yiyangiliu/RescueTime-Record)
+     
    - What is my professional experience? [Linkedin](https://www.linkedin.com/in/yiyangiliu)
-   - How about my algorithmic ability? [Leetcode](https://leetcode.com/yiyangiliu
+   - How about my algorithm ability? [Leetcode](https://leetcode.com/yiyangiliu)
 
 <!--
 **yiyangiliu/yiyangiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
