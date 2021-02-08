@@ -11,15 +11,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true" alt="yiyangiliu's github stats" />
 </a>
 
-----
 
- - ❤ With high openness, You can easily know my details.
-   - What do I do every day? 
+#### ❤ With high openness, You can easily know me in detail.
+ - What do I do every day? 
 
      [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record)](https://github.com/yiyangiliu/RescueTime-Record)
      
-   - What is my professional experience? [Linkedin](https://www.linkedin.com/in/yiyangiliu)
-   - How about my algorithm ability? [Leetcode profile](https://leetcode.com/yiyangiliu)
+ - What is my professional experience? [Linkedin](https://www.linkedin.com/in/yiyangiliu)
+ - How about my algorithm ability? [Leetcode profile](https://leetcode.com/yiyangiliu)
 
 <!--
 **yiyangiliu/yiyangiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
