@@ -1,7 +1,7 @@
 # Hi there, I'm Ian 👋
 
 <a href="http://google.com">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=7fdbca&bg_color=f2fffc" alt="yiyangiliu's github stats" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=75eeb2&bg_color=e6f9ff" alt="yiyangiliu's github stats" />
 </a>
 
 [Linkedin](https://www.linkedin.com/in/yiyangiliu), [Leetcode](https://leetcode.com/yiyangiliu)
