@@ -14,7 +14,6 @@
 </br>
 </br>
 
-----
 
 #### ❤ With high openness, You can easily know me in detail.
  - What do I do every day? 
