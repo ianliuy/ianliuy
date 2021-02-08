@@ -1,6 +1,6 @@
 ### Hi there, I'm Ian 👋
 
- - 📌 Self-motivated Learner. Founder & Coordinator of muitiple communities.
+ - 📌 Self-motivated Learner.
  - 👔 Current SDE Intern at **ByteDance**
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
