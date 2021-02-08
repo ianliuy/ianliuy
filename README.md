@@ -3,10 +3,7 @@
  - 📌 Self-motivated Learner. Founder & Coordinator of muitiple communities.
  - 👔 Current SDE Intern at **ByteDance**
    - Recommender Systems, Infrastructure, C++
- - Fromer RA at **THU**
-   - Sentiment Analysis, NLP, Python
- - Fromer RA at **CMU**
-   - Blockchain, Golang
+   - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
  
 <a href="https://github.com/yiyangiliu">
