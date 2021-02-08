@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true&title_color=" alt="yiyangiliu's github stats" />
 
-### Hi there, I'm Ian 👋
+## Hi there, I'm Ian 👋
 
  - 📌 **Self-motivated** Learner.
  - ✨ **Leader** of mutiple communities
@@ -9,7 +9,7 @@
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
 
-#### ❤ With high openness, You can easily know me in detail.
+### ❤ With high openness, You can easily know me in detail.
  - What do I do every day? 
 
      [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record)](https://github.com/yiyangiliu/RescueTime-Record)
