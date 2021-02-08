@@ -1,6 +1,7 @@
 ### Hi there, I'm Ian 👋
 
- - 📌 Self-motivated Learner.
+ - 📌 **Self-motivated** Learner.
+ - ✨ **Leader** of mutiple communities
  - 👔 Current SDE Intern at **ByteDance**
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
@@ -18,7 +19,7 @@
      [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record)](https://github.com/yiyangiliu/RescueTime-Record)
      
    - What is my professional experience? [Linkedin](https://www.linkedin.com/in/yiyangiliu)
-   - How about my algorithm ability? [Leetcode](https://leetcode.com/yiyangiliu)
+   - How about my algorithm ability? [Leetcode profile](https://leetcode.com/yiyangiliu)
 
 <!--
 **yiyangiliu/yiyangiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
