@@ -1,4 +1,4 @@
-## Hi there, I'm Ian 👋
+# Hi there, I'm Ian 👋
 
 <a href="http://google.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyangiliu&show_icons=true&include_all_commits=true&title_color=" alt="yiyangiliu's github stats" />
@@ -10,6 +10,8 @@
    - Recommender Systems, Infrastructure, C++
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
+
+</br>
 
 ### ❤ With high openness, You can easily know me in detail.
  - What do I do every day? 
