@@ -8,7 +8,7 @@
  - 📌 **Self-motivated** Learner
  - ✨ **Leader** of mutiple communities
  - 👔 Current SDE Intern at **ByteDance**
-   - Recommender Systems, Infrastructure, C++
+   - Recommender Systems, Infra
    - Fromer RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
  - ✏ Male **Feminist**
