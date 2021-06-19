@@ -6,7 +6,7 @@
 
 [Linkedin](https://www.linkedin.com/in/yiyangiliu), [Leetcode](https://leetcode.com/yiyangiliu)
  - 📌 **Self-motivated** Learner
- - ✨ **Leader** of mutiple communities
+ - ✨ **Initiator** of mutiple communities
  - 👔 Current SDE Intern at **ByteDance**
    - Recommender Systems, Infra
    - Fromer RA at **THU** and **CMU**
