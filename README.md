@@ -19,6 +19,10 @@
  - What do I do every day? 
 
      [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=RescueTime-Record&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff)](https://github.com/yiyangiliu/RescueTime-Record)
+     
+ - Personal CV
+ 
+     [![yiyangiliu's github stats](https://github-readme-stats.vercel.app/api/pin/?username=yiyangiliu&repo=Resume&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff)](https://github.com/yiyangiliu/Resume)
 
 
 <!--
