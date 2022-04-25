@@ -9,7 +9,7 @@
  - ✨ **Initiator** of mutiple communities
  - 👔 Current SDE Intern at **ByteDance**
    - Recommender Systems, Infra
-   - Fromer RA at **THU** and **CMU**
+   - Former RA at **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
  - ✏ Male **Feminist**
  
