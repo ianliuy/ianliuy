@@ -4,7 +4,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ianliuy&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="yiyangiliu's github stats" />
 </a>
 
-[Linkedin](https://www.linkedin.com/in/yiyangiliu) / [Leetcode](https://leetcode.com/yiyangiliu) / [CV](https://github.com/yiyangiliu/Resume)
+[Linkedin](https://www.linkedin.com/in/ianliuy) / [Leetcode](https://leetcode.com/ianliuy) / [CV](https://github.com/yiyangiliu/Resume)
  - 📌 **Self-motivated** Learner
  - ✨ **Initiator** of mutiple communities
  - 👔 Current SDE Intern at **ByteDance**
