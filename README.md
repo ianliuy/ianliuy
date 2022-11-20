@@ -7,9 +7,9 @@
 [Linkedin](https://www.linkedin.com/in/ianliuy) / [Leetcode](https://leetcode.com/ianliuy) / [CV](https://github.com/yiyangiliu/Resume)
  - 📌 **Self-motivated** Learner
  - ✨ **Initiator** of mutiple communities
- - 👔 Current SDE Intern at **ByteDance**
-   - Recommender Systems, Infra
-   - Fromer RA at **THU** and **CMU**
+ - 👔 Current SDE Intern at **AWS**
+   - Elastic Container Service (ECS)
+   - Interned at **TikTok**, **THU** and **CMU**
  - 🎓 Proud **USC Trojan**
  - ✏ Male **Feminist**
  
